@@ -1,0 +1,14 @@
+{
+  "name": "miguel_cypress_01",
+  "version": "0.0.1",
+  "description": "back to cypress 0.1",
+  "main": "cypress.config.js",
+  "scripts": {
+    "test": "cypress test"
+  },
+  "author": "miguel peceros",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.17.3"
+  }
+}
